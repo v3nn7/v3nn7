@@ -3,29 +3,20 @@
 Welcome to my GitHub profile! Here you'll find my personal projects, experiments, and tools.
 
 ## 💻 About Me
-<img src="https://skillicons.dev/icons?i=cs" width="40"/> <img src="https://skillicons.dev/icons?i=c" width="40"/>  
+<img src="https://skillicons.dev/icons?i=cs" width="50"/> <img src="https://skillicons.dev/icons?i=c" width="50"/> <img src="https://skillicons.dev/icons?i=cpp" width="50"/>  
 Full-stack developer & OSDev enthusiast  
 
-<img src="https://skillicons.dev/icons?i=cpp" width="40"/> <img src="https://skillicons.dev/icons?i=python" width="40"/>  
-Programming & scripting: C++, Python  
+<img src="https://skillicons.dev/icons?i=python" width="50"/> <img src="https://skillicons.dev/icons?i=java" width="50"/> <img src="https://skillicons.dev/icons?i=js" width="50"/>  
+Programming & scripting  
 
-<img src="https://skillicons.dev/icons?i=java" width="40"/> <img src="https://skillicons.dev/icons?i=js" width="40"/>  
-Programming & scripting: Java, JavaScript  
+<img src="https://skillicons.dev/icons?i=unity" width="50"/> <img src="https://skillicons.dev/icons?i=svelte" width="50"/> <img src="https://skillicons.dev/icons?i=ts" width="50"/>  
+VR & Web: Unity, Svelte, TypeScript  
 
-<img src="https://skillicons.dev/icons?i=unity" width="40"/> <img src="https://skillicons.dev/icons?i=svelte" width="40"/>  
-VR & Web: Unity, Svelte  
+<img src="https://skillicons.dev/icons?i=git" width="50"/> <img src="https://skillicons.dev/icons?i=godot" width="50"/> <img src="https://skillicons.dev/icons?i=rider" width="50"/>  
+Version control, Game dev, IDE  
 
-<img src="https://skillicons.dev/icons?i=ts" width="40"/> <img src="https://skillicons.dev/icons?i=git" width="40"/>  
-TypeScript, Git  
-
-<img src="https://skillicons.dev/icons?i=godot" width="40"/> <img src="https://skillicons.dev/icons?i=rider" width="40"/>  
-Game dev / IDE: Godot, Rider  
-
-<img src="https://skillicons.dev/icons?i=windows" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/>  
-OS tinkering: Windows, Linux  
-
-<img src="https://skillicons.dev/icons?i=solidity" width="40"/>  
-Blockchain & crypto tinkerer  
+<img src="https://skillicons.dev/icons?i=windows" width="50"/> <img src="https://skillicons.dev/icons?i=linux" width="50"/> <img src="https://skillicons.dev/icons?i=solidity" width="50"/>  
+OS tinkering & Blockchain  
 
 ## 🚀 Featured Projects
 - **Top Secret Project #1** – 🕵️‍♂️  
