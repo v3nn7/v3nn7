@@ -38,6 +38,6 @@ I like pushing boundaries and making weird stuff actually work 😏
 ---
 
 ## 🔥 Mood
-<img src="https://media.tenor.com/kX4Ae5TEV6D.gif" width="300"/>
+<img src="https://media.tenor.com/fdo-vnegQqUAAAAi/fire-fire-emote.gif" width="300"/>
 
 Thanks for stopping by. Explore if you dare…
