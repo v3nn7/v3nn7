@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! Here you'll find my personal projects, experiments, and tools.
 
 ## 💻 About Me
-- <img src="https://skillicons.dev/icons?i=cs,c,cpp,python,java,js" width="20"/> Full-stack developer & OSDev enthusiast  
-- <img src="https://skillicons.dev/icons?i=unity,svelte,ts,git,godot,rider" width="20"/> VR & Web lover – Unity, Svelte, TypeScript, Git, Godot, Rider  
-- <img src="https://skillicons.dev/icons?i=windows,linux" width="20"/> OS tinkerer – Windows, Linux  
-- <img src="https://skillicons.dev/icons?i=solidity" width="20"/> Blockchain & crypto tinkerer  
+- <img src="https://skillicons.dev/icons?i=cs,c,cpp,python,java,js" width="40"/> Full-stack developer & OSDev enthusiast  
+- <img src="https://skillicons.dev/icons?i=unity,svelte,ts,git,godot,rider" width="40"/> VR & Web lover – Unity, Svelte, TypeScript, Git, Godot, Rider  
+- <img src="https://skillicons.dev/icons?i=windows,linux" width="40"/> OS tinkerer – Windows, Linux  
+- <img src="https://skillicons.dev/icons?i=solidity" width="40"/> Blockchain & crypto tinkerer  
 
 ## 🚀 Featured Projects
 - **Top Secret Project #1** – 🕵️‍♂️  
