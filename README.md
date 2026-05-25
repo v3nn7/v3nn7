@@ -3,26 +3,7 @@
 Welcome to my GitHub profile! Here you'll find my personal projects, experiments, and tools.
 
 ## 💻 About Me
-<img src="https://skillicons.dev/icons?i=cs" width="50"/> <img src="https://skillicons.dev/icons?i=c" width="50"/> <img src="https://skillicons.dev/icons?i=cpp" width="50"/>  
-Full-stack developer & OSDev enthusiast  
-
-<img src="https://skillicons.dev/icons?i=python" width="50"/> <img src="https://skillicons.dev/icons?i=java" width="50"/> <img src="https://skillicons.dev/icons?i=js" width="50"/>  
-Programming & scripting  
-
-<img src="https://skillicons.dev/icons?i=unity" width="50"/> <img src="https://skillicons.dev/icons?i=svelte" width="50"/> <img src="https://skillicons.dev/icons?i=ts" width="50"/>  
-VR & Web: Unity, Svelte, TypeScript  
-
-<img src="https://skillicons.dev/icons?i=git" width="50"/> <img src="https://skillicons.dev/icons?i=godot" width="50"/> <img src="https://skillicons.dev/icons?i=rider" width="50"/>  
-Version control, Game dev, IDE  
-
-<img src="https://skillicons.dev/icons?i=windows" width="50"/> <img src="https://skillicons.dev/icons?i=linux" width="50"/> <img src="https://skillicons.dev/icons?i=solidity" width="50"/>  
-OS tinkering & Blockchain  
-
-## 🚀 Featured Projects
-- **Top Secret Project #1** – 🕵️‍♂️  
-- **Top Secret Project #2** – 🤫  
-- **Top Secret Project #3** – 🔒  
-- **And more…** – The rest is a mystery 😎  
+OSDev enthusiast  
 
 ## 📊 GitHub Stats
 ![v3nn7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v3nn7&show_icons=true&theme=radical)  
