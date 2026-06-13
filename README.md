@@ -4,6 +4,7 @@ Welcome to my GitHub profile! Here you'll find my personal projects, experiments
 
 ## 💻 About Me
 OSDev enthusiast  
+I like RustLang
 
 ## 📊 GitHub Stats
 ![v3nn7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v3nn7&show_icons=true&theme=radical)  
