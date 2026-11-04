@@ -1,39 +1,102 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-    width="700" height="160" viewBox="0 0 700 160">
-  <rect width="700" height="160" rx="18" fill="#0d1117"/>
-  <g font-family="Arial, sans-serif" transform="translate(14,20)">
-    
-    <g transform="translate(0,0)">
-      <rect width="216" height="110" rx="14"
-            fill="#161b22" stroke="#30363d"/>
-      <text x="108" y="48" text-anchor="middle"
-            fill="#00c9ff" font-size="31"
-            font-weight="bold">18</text>
-      <text x="108" y="78" text-anchor="middle"
-            fill="#8b949e" font-size="13">TOTAL STARS</text>
-    </g>
-    
-    
-    <g transform="translate(228,0)">
-      <rect width="216" height="110" rx="14"
-            fill="#161b22" stroke="#30363d"/>
-      <text x="108" y="48" text-anchor="middle"
-            fill="#a78bfa" font-size="31"
-            font-weight="bold">17</text>
-      <text x="108" y="78" text-anchor="middle"
-            fill="#8b949e" font-size="13">REPOSITORIES</text>
-    </g>
-    
-    
-    <g transform="translate(456,0)">
-      <rect width="216" height="110" rx="14"
-            fill="#161b22" stroke="#30363d"/>
-      <text x="108" y="48" text-anchor="middle"
-            fill="#58a6ff" font-size="31"
-            font-weight="bold">3</text>
-      <text x="108" y="78" text-anchor="middle"
-            fill="#8b949e" font-size="13">FOLLOWERS</text>
-    </g>
-    
+    width="700" height="258" viewBox="0 0 700 258"
+    role="img" aria-labelledby="title">
+  <title id="title">GitHub stats: 18 stars, 2 forks, 17 repositories, 3 followers</title>
+  <style>
+    .value { font: 700 30px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+    .label { font: 600 11px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; letter-spacing: 1.5px; fill: #8b949e; }
+    .name { font: 400 12px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #c9d1d9; }
+    .pct { fill: #8b949e; }
+    .fade { animation: fade 0.6s ease-out backwards; }
+    @keyframes fade { from { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .fade { animation: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="699" height="257" rx="18"
+        fill="#0d1117" stroke="#21262d"/>
+  
+  <g class="fade" style="animation-delay:0.00s"
+     transform="translate(20.0,20)">
+    <rect width="156.0" height="96" rx="12"
+          fill="#161b22" stroke="#30363d"/>
+    <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#00c9ff"/>
+    <text x="78.0" y="50" text-anchor="middle"
+          class="value" fill="#00c9ff">18</text>
+    <text x="78.0" y="76" text-anchor="middle"
+          class="label">TOTAL STARS</text>
   </g>
+  <g class="fade" style="animation-delay:0.12s"
+     transform="translate(188.0,20)">
+    <rect width="156.0" height="96" rx="12"
+          fill="#161b22" stroke="#30363d"/>
+    <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#6865ff"/>
+    <text x="78.0" y="50" text-anchor="middle"
+          class="value" fill="#6865ff">2</text>
+    <text x="78.0" y="76" text-anchor="middle"
+          class="label">TOTAL FORKS</text>
+  </g>
+  <g class="fade" style="animation-delay:0.24s"
+     transform="translate(356.0,20)">
+    <rect width="156.0" height="96" rx="12"
+          fill="#161b22" stroke="#30363d"/>
+    <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#a78bfa"/>
+    <text x="78.0" y="50" text-anchor="middle"
+          class="value" fill="#a78bfa">17</text>
+    <text x="78.0" y="76" text-anchor="middle"
+          class="label">REPOSITORIES</text>
+  </g>
+  <g class="fade" style="animation-delay:0.36s"
+     transform="translate(524.0,20)">
+    <rect width="156.0" height="96" rx="12"
+          fill="#161b22" stroke="#30363d"/>
+    <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#58a6ff"/>
+    <text x="78.0" y="50" text-anchor="middle"
+          class="value" fill="#58a6ff">3</text>
+    <text x="78.0" y="76" text-anchor="middle"
+          class="label">FOLLOWERS</text>
+  </g>
+  
+  <text x="20" y="146" class="label fade"
+        style="animation-delay:0.45s">TOP LANGUAGES</text>
+  <clipPath id="bar">
+    <rect x="20" y="158" width="660" height="10" rx="5"/>
+  </clipPath>
+  <g clip-path="url(#bar)" class="fade" style="animation-delay:0.45s">
+    <rect x="20" y="158" width="660" height="10" fill="#21262d"/>
+    <rect x="20.00" y="158" width="363.88" height="10" fill="#dea584"/><rect x="383.88" y="158" width="189.12" height="10" fill="#a8b9cc"/><rect x="573.00" y="158" width="47.17" height="10" fill="#f34b7d"/><rect x="620.17" y="158" width="24.00" height="10" fill="#3572a5"/><rect x="644.17" y="158" width="14.91" height="10" fill="#00c9ff"/><rect x="659.07" y="158" width="8.06" height="10" fill="#a78bfa"/><rect x="667.13" y="158" width="12.87" height="10" fill="#484f58"/>
+  </g>
+    <g class="fade" style="animation-delay:0.50s">
+      <circle cx="25.0" cy="188" r="5" fill="#dea584"/>
+      <text x="38.0" y="192" class="name">Rust
+        <tspan class="pct">55.1%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:0.56s">
+      <circle cx="245.0" cy="188" r="5" fill="#a8b9cc"/>
+      <text x="258.0" y="192" class="name">C
+        <tspan class="pct">28.7%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:0.62s">
+      <circle cx="465.0" cy="188" r="5" fill="#f34b7d"/>
+      <text x="478.0" y="192" class="name">C++
+        <tspan class="pct">7.1%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:0.68s">
+      <circle cx="25.0" cy="210" r="5" fill="#3572a5"/>
+      <text x="38.0" y="214" class="name">Python
+        <tspan class="pct">3.6%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:0.74s">
+      <circle cx="245.0" cy="210" r="5" fill="#00c9ff"/>
+      <text x="258.0" y="214" class="name">Slint
+        <tspan class="pct">2.3%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:0.80s">
+      <circle cx="465.0" cy="210" r="5" fill="#a78bfa"/>
+      <text x="478.0" y="214" class="name">PowerShell
+        <tspan class="pct">1.2%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:0.86s">
+      <circle cx="25.0" cy="232" r="5" fill="#484f58"/>
+      <text x="38.0" y="236" class="name">Other
+        <tspan class="pct">1.9%</tspan></text>
+    </g>
 </svg>

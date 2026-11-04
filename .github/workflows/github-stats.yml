@@ -21,25 +21,33 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
+      # The script uses only the standard library, so the runner's Python is enough.
       - name: Generate statistics
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/github_stats.py
+        run: python3 scripts/github_stats.py
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Commit updated stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub stats"
+          git add assets/github-stats.svg profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "Stats unchanged."
+            exit 0
+          fi
+          git commit -m "chore: update GitHub stats"
+          git pull --rebase origin main
           git push

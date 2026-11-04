@@ -123,11 +123,19 @@ Focused on native performance, predictable memory management, expressive syntax,
 
 <div align="center">
 
-<img src="./assets/github-stats.svg" width="95%" alt="Total Stars, Repositories and Followers"/>
+<img src="./assets/github-stats.svg" width="95%" alt="Total stars, forks, repositories, followers and top languages"/>
 
 <br>
 
-<sub>Live statistics across v3nn7, OSyxSoftware and rynlanguage — updated every 6 hours.</sub>
+<sub>Live statistics and language breakdown across v3nn7, OSyxSoftware and rynlanguage — updated every 6 hours.</sub>
+
+<br><br>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution calendar"/>
+
+<br>
+
+<sub>A year of commits, rendered in 3D.</sub>
 
 <br><br>
 
