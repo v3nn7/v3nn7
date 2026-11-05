@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
     width="700" height="258" viewBox="0 0 700 258"
     role="img" aria-labelledby="title">
-  <title id="title">GitHub stats: 18 stars, 2 forks, 18 repositories, 3 followers</title>
+  <title id="title">GitHub stats: 19 stars, 2 forks, 18 repositories, 3 followers</title>
   <style>
     .value { font: 700 30px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
     .label { font: 600 11px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; letter-spacing: 1.5px; fill: #8b949e; }
@@ -20,7 +20,7 @@
           fill="#161b22" stroke="#30363d"/>
     <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#00c9ff"/>
     <text x="78.0" y="50" text-anchor="middle"
-          class="value" fill="#00c9ff">18</text>
+          class="value" fill="#00c9ff">19</text>
     <text x="78.0" y="76" text-anchor="middle"
           class="label">TOTAL STARS</text>
   </g>
@@ -62,22 +62,22 @@
   </clipPath>
   <g clip-path="url(#bar)" class="fade" style="animation-delay:0.45s">
     <rect x="20" y="158" width="660" height="10" fill="#21262d"/>
-    <rect x="20.00" y="158" width="357.93" height="10" fill="#dea584"/><rect x="377.93" y="158" width="183.40" height="10" fill="#a8b9cc"/><rect x="561.33" y="158" width="59.81" height="10" fill="#f34b7d"/><rect x="621.14" y="158" width="23.37" height="10" fill="#3572a5"/><rect x="644.50" y="158" width="14.42" height="10" fill="#00c9ff"/><rect x="658.93" y="158" width="7.80" height="10" fill="#a78bfa"/><rect x="666.73" y="158" width="13.27" height="10" fill="#484f58"/>
+    <rect x="20.00" y="158" width="347.66" height="10" fill="#dea584"/><rect x="367.66" y="158" width="178.14" height="10" fill="#a8b9cc"/><rect x="545.80" y="158" width="74.92" height="10" fill="#f34b7d"/><rect x="620.72" y="158" width="23.33" height="10" fill="#3572a5"/><rect x="644.06" y="158" width="14.01" height="10" fill="#00c9ff"/><rect x="658.07" y="158" width="7.58" height="10" fill="#a78bfa"/><rect x="665.64" y="158" width="14.36" height="10" fill="#484f58"/>
   </g>
     <g class="fade" style="animation-delay:0.50s">
       <circle cx="25.0" cy="188" r="5" fill="#dea584"/>
       <text x="38.0" y="192" class="name">Rust
-        <tspan class="pct">54.2%</tspan></text>
+        <tspan class="pct">52.7%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.56s">
       <circle cx="245.0" cy="188" r="5" fill="#a8b9cc"/>
       <text x="258.0" y="192" class="name">C
-        <tspan class="pct">27.8%</tspan></text>
+        <tspan class="pct">27.0%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.62s">
       <circle cx="465.0" cy="188" r="5" fill="#f34b7d"/>
       <text x="478.0" y="192" class="name">C++
-        <tspan class="pct">9.1%</tspan></text>
+        <tspan class="pct">11.4%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.68s">
       <circle cx="25.0" cy="210" r="5" fill="#3572a5"/>
@@ -87,16 +87,16 @@
     <g class="fade" style="animation-delay:0.74s">
       <circle cx="245.0" cy="210" r="5" fill="#00c9ff"/>
       <text x="258.0" y="214" class="name">Slint
-        <tspan class="pct">2.2%</tspan></text>
+        <tspan class="pct">2.1%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.80s">
       <circle cx="465.0" cy="210" r="5" fill="#a78bfa"/>
       <text x="478.0" y="214" class="name">PowerShell
-        <tspan class="pct">1.2%</tspan></text>
+        <tspan class="pct">1.1%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.86s">
       <circle cx="25.0" cy="232" r="5" fill="#484f58"/>
       <text x="38.0" y="236" class="name">Other
-        <tspan class="pct">2.0%</tspan></text>
+        <tspan class="pct">2.2%</tspan></text>
     </g>
 </svg>
