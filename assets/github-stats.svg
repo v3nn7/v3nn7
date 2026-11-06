@@ -62,22 +62,22 @@
   </clipPath>
   <g clip-path="url(#bar)" class="fade" style="animation-delay:0.45s">
     <rect x="20" y="158" width="660" height="10" fill="#21262d"/>
-    <rect x="20.00" y="158" width="335.65" height="10" fill="#dea584"/><rect x="355.65" y="158" width="171.99" height="10" fill="#a8b9cc"/><rect x="527.63" y="158" width="93.86" height="10" fill="#f34b7d"/><rect x="621.49" y="158" width="22.53" height="10" fill="#3572a5"/><rect x="644.02" y="158" width="13.53" height="10" fill="#00c9ff"/><rect x="657.55" y="158" width="7.31" height="10" fill="#a78bfa"/><rect x="664.86" y="158" width="15.14" height="10" fill="#484f58"/>
+    <rect x="20.00" y="158" width="329.80" height="10" fill="#dea584"/><rect x="349.80" y="158" width="168.99" height="10" fill="#a8b9cc"/><rect x="518.78" y="158" width="103.01" height="10" fill="#f34b7d"/><rect x="621.79" y="158" width="22.14" height="10" fill="#3572a5"/><rect x="643.93" y="158" width="13.29" height="10" fill="#00c9ff"/><rect x="657.22" y="158" width="7.19" height="10" fill="#a78bfa"/><rect x="664.41" y="158" width="15.59" height="10" fill="#484f58"/>
   </g>
     <g class="fade" style="animation-delay:0.50s">
       <circle cx="25.0" cy="188" r="5" fill="#dea584"/>
       <text x="38.0" y="192" class="name">Rust
-        <tspan class="pct">50.9%</tspan></text>
+        <tspan class="pct">50.0%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.56s">
       <circle cx="245.0" cy="188" r="5" fill="#a8b9cc"/>
       <text x="258.0" y="192" class="name">C
-        <tspan class="pct">26.1%</tspan></text>
+        <tspan class="pct">25.6%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.62s">
       <circle cx="465.0" cy="188" r="5" fill="#f34b7d"/>
       <text x="478.0" y="192" class="name">C++
-        <tspan class="pct">14.2%</tspan></text>
+        <tspan class="pct">15.6%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.68s">
       <circle cx="25.0" cy="210" r="5" fill="#3572a5"/>
@@ -97,6 +97,6 @@
     <g class="fade" style="animation-delay:0.86s">
       <circle cx="25.0" cy="232" r="5" fill="#484f58"/>
       <text x="38.0" y="236" class="name">Other
-        <tspan class="pct">2.3%</tspan></text>
+        <tspan class="pct">2.4%</tspan></text>
     </g>
 </svg>
