@@ -62,22 +62,22 @@
   </clipPath>
   <g clip-path="url(#bar)" class="fade" style="animation-delay:0.45s">
     <rect x="20" y="158" width="660" height="10" fill="#21262d"/>
-    <rect x="20.00" y="158" width="319.27" height="10" fill="#dea584"/><rect x="339.27" y="158" width="163.60" height="10" fill="#a8b9cc"/><rect x="502.87" y="158" width="118.23" height="10" fill="#f34b7d"/><rect x="621.11" y="158" width="21.43" height="10" fill="#3572a5"/><rect x="642.54" y="158" width="12.87" height="10" fill="#00c9ff"/><rect x="655.40" y="158" width="6.96" height="10" fill="#a78bfa"/><rect x="662.36" y="158" width="17.64" height="10" fill="#484f58"/>
+    <rect x="20.00" y="158" width="322.18" height="10" fill="#dea584"/><rect x="342.18" y="158" width="162.35" height="10" fill="#a8b9cc"/><rect x="504.53" y="158" width="117.05" height="10" fill="#f34b7d"/><rect x="621.58" y="158" width="21.21" height="10" fill="#3572a5"/><rect x="642.80" y="158" width="12.74" height="10" fill="#00c9ff"/><rect x="655.53" y="158" width="6.89" height="10" fill="#a78bfa"/><rect x="662.43" y="158" width="17.57" height="10" fill="#484f58"/>
   </g>
     <g class="fade" style="animation-delay:0.50s">
       <circle cx="25.0" cy="188" r="5" fill="#dea584"/>
       <text x="38.0" y="192" class="name">Rust
-        <tspan class="pct">48.4%</tspan></text>
+        <tspan class="pct">48.8%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.56s">
       <circle cx="245.0" cy="188" r="5" fill="#a8b9cc"/>
       <text x="258.0" y="192" class="name">C
-        <tspan class="pct">24.8%</tspan></text>
+        <tspan class="pct">24.6%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.62s">
       <circle cx="465.0" cy="188" r="5" fill="#f34b7d"/>
       <text x="478.0" y="192" class="name">C++
-        <tspan class="pct">17.9%</tspan></text>
+        <tspan class="pct">17.7%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.68s">
       <circle cx="25.0" cy="210" r="5" fill="#3572a5"/>
@@ -92,7 +92,7 @@
     <g class="fade" style="animation-delay:0.80s">
       <circle cx="465.0" cy="210" r="5" fill="#a78bfa"/>
       <text x="478.0" y="214" class="name">PowerShell
-        <tspan class="pct">1.1%</tspan></text>
+        <tspan class="pct">1.0%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.86s">
       <circle cx="25.0" cy="232" r="5" fill="#484f58"/>
