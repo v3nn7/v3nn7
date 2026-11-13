@@ -62,22 +62,22 @@
   </clipPath>
   <g clip-path="url(#bar)" class="fade" style="animation-delay:0.45s">
     <rect x="20" y="158" width="660" height="10" fill="#21262d"/>
-    <rect x="20.00" y="158" width="327.24" height="10" fill="#dea584"/><rect x="347.24" y="158" width="159.82" height="10" fill="#a8b9cc"/><rect x="507.06" y="158" width="115.22" height="10" fill="#f34b7d"/><rect x="622.28" y="158" width="21.09" height="10" fill="#3572a5"/><rect x="643.37" y="158" width="12.54" height="10" fill="#00c9ff"/><rect x="655.91" y="158" width="6.78" height="10" fill="#a78bfa"/><rect x="662.69" y="158" width="17.31" height="10" fill="#484f58"/>
+    <rect x="20.00" y="158" width="326.22" height="10" fill="#dea584"/><rect x="346.22" y="158" width="159.32" height="10" fill="#a8b9cc"/><rect x="505.54" y="158" width="116.83" height="10" fill="#f34b7d"/><rect x="622.37" y="158" width="21.02" height="10" fill="#3572a5"/><rect x="643.39" y="158" width="12.50" height="10" fill="#00c9ff"/><rect x="655.89" y="158" width="6.76" height="10" fill="#a78bfa"/><rect x="662.65" y="158" width="17.35" height="10" fill="#484f58"/>
   </g>
     <g class="fade" style="animation-delay:0.50s">
       <circle cx="25.0" cy="188" r="5" fill="#dea584"/>
       <text x="38.0" y="192" class="name">Rust
-        <tspan class="pct">49.6%</tspan></text>
+        <tspan class="pct">49.4%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.56s">
       <circle cx="245.0" cy="188" r="5" fill="#a8b9cc"/>
       <text x="258.0" y="192" class="name">C
-        <tspan class="pct">24.2%</tspan></text>
+        <tspan class="pct">24.1%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.62s">
       <circle cx="465.0" cy="188" r="5" fill="#f34b7d"/>
       <text x="478.0" y="192" class="name">C++
-        <tspan class="pct">17.5%</tspan></text>
+        <tspan class="pct">17.7%</tspan></text>
     </g>
     <g class="fade" style="animation-delay:0.68s">
       <circle cx="25.0" cy="210" r="5" fill="#3572a5"/>
