@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
     width="700" height="258" viewBox="0 0 700 258"
     role="img" aria-labelledby="title">
-  <title id="title">GitHub stats: 20 stars, 2 forks, 18 repositories, 3 followers</title>
+  <title id="title">GitHub stats: 21 stars, 2 forks, 18 repositories, 3 followers</title>
   <style>
     .value { font: 700 30px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
     .label { font: 600 11px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; letter-spacing: 1.5px; fill: #8b949e; }
@@ -20,7 +20,7 @@
           fill="#161b22" stroke="#30363d"/>
     <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#00c9ff"/>
     <text x="78.0" y="50" text-anchor="middle"
-          class="value" fill="#00c9ff">20</text>
+          class="value" fill="#00c9ff">21</text>
     <text x="78.0" y="76" text-anchor="middle"
           class="label">TOTAL STARS</text>
   </g>
